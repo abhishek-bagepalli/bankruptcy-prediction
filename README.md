@@ -1,10 +1,5 @@
 # 📊 Bankruptcy Prediction Using Data Mining Techniques
 
-**Course**: MGMT 571 – Data Mining  
-**Team**: Data Minors (Tirth Patel, Abhishek Bagepalli, Vishnu Anand)
-
----
-
 ## 🧠 Objective
 
 This project aims to develop a predictive model using SAS Enterprise Miner to determine the likelihood of a firm filing for bankruptcy. The work was part of a Kaggle-based competition for the MGMT 571 course.
